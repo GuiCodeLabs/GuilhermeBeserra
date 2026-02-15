@@ -55,11 +55,11 @@ Sou uma pessoa dedicada, com interesse constante em aprendizado, evolução téc
 ### 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeBeserra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="165" alt="stats graph"  
+  <img src="https://github-readme-stats.vercel.app/api?username=GuiCodeLabs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="165" alt="stats graph"  
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeBeserra&layout=compact&langs_count=5&theme=dracula&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=GuiCodeLabs&layout=compact&langs_count=5&theme=dracula&locale=pt-br" 
     height="165"
   />
 </div>
